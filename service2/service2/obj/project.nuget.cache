@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXFUsIMGHadA1VqbMkK9fnlqhiUpjwuFrxHKbFPztRysZ/uSus0cTbGlxcjIqJFgQtojK0IlHCNVB0fxqRutRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akshaykumar10\\OneDrive - Nagarro\\Desktop\\docker And k8s\\service2\\service2\\service2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akshaykumar10\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  service1:
+    image: ${DOCKER_REGISTRY-}service1
+    build:
+      context: .
+      dockerfile: service1/service1/Dockerfile
+    ports:
+      - "7000:80"
+
+  service2:
+    image: ${DOCKER_REGISTRY-}service2
+    build:
+      context: .
+      dockerfile: service2/service2/Dockerfile
+    ports:
+      - "8000:80"
